@@ -1,0 +1,9 @@
+{
+    "name": "cash-tracker",
+    "version-string": "0.0.0-dev",
+    "dependencies": 
+    [
+        "jsoncpp",
+        "spdlog"
+    ]
+}

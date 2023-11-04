@@ -6,3 +6,6 @@ build/
 
 # Visual Studio Code
 .vscode/
+
+# Test json file
+RecordInfo.json
